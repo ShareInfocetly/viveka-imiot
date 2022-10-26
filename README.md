@@ -12,4 +12,4 @@ from campus lead jayarudran
 i am a +2 IP student
 
 ece
- avinash M
+ avinash M 
